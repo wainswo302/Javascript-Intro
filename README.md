@@ -33,7 +33,7 @@ By completing this lab, you will be able to:
 4. Open the terminal in VS Code
 5. Run your code with:
 
-bash
+bash:
 node lab.js
 
 
@@ -111,20 +111,6 @@ In your `lab.js` file, create variables for the following:
 
 Then print them using `console.log()`.
 
-### Example format
-
-```javascript
-let firstName = "YourName";
-let age = 25;
-let favoriteColor = "Blue";
-let likesCoding = true;
-
-console.log(firstName);
-console.log(age);
-console.log(favoriteColor);
-console.log(likesCoding);
-```
-
 ---
 
 ## Check for Understanding
@@ -150,16 +136,6 @@ JavaScript uses:
 * `else`
 
 ### Example
-
-```javascript
-let age = 20;
-
-if (age >= 18) {
-  console.log("You are an adult.");
-} else {
-  console.log("You are a minor.");
-}
-```
 
 This means:
 
@@ -564,5 +540,4 @@ Good luck.
 
 ```
 
-If you want, I can also turn this into a more polished **GitHub classroom-style README** with sections like **Deliverables, Rubric, Hints, and Submission Instructions**.
-```
+
